@@ -1,4 +1,4 @@
-# <div align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />, I'm Saiteja 👨‍💻</div>
+# <div align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />, I'm Saiteja <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="35" height="35" /></div>
 
 <div align="center">
   
@@ -8,7 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saitejadonthula17/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saitejadonthula17@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Phone](https://img.shields.io/badge/Phone-8500807630-03C988?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918500807630)
 
 </div>
 
@@ -27,6 +26,16 @@ const saiteja = {
   currentFocus: "Creating AI-powered applications that solve real-world problems"
 };
 ```
+
+## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="70" height="30" /> Work & Learning
+
+- 🔭 I'm currently working on **Darth AI** - a multi-model SaaS AI platform with GPT-4o, Claude, and Gemini
+- 🌱 I'm currently learning **AI-powered web applications** and **deepening my skills in the MERN stack**
+- 👯 I'm looking to collaborate on **Open-source MERN stack projects**
+- 💬 Ask me about **React, Node.js, Python**
+- 📫 How to reach me: **saitejadonthula17@gmail.com**
+- ⚡ **Fun fact:** **I’m lazy… until someone flexes. Then I stop chilling and start killing (in code, of course).**
+
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="30" height="30" /> Tech Stack
 
@@ -59,7 +68,8 @@ const saiteja = {
 <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" /> What I Do
+ 
+## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30" height="30" /> What I Do
 
 <div align="center">
 
@@ -86,16 +96,21 @@ const saiteja = {
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" /> GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" /> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=saiteja-donthula-17&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiteja-donthula-17&theme=radical&hide_border=true" alt="GitHub Streak" height="170">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=saiteja-donthula-17&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" height="170">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiteja-donthula-17&theme=radical&hide_border=true&background=0D1117&ring=00E7FF&fire=00E7FF&currStreakLabel=00E7FF" alt="GitHub Streak" height="170">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=saiteja-donthula-17&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=saiteja-donthula-17&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages">
 </div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saiteja-donthula-17&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophy Stats">
+</div>
+
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="30" height="30" /> Featured Projects
 <div align="center">
@@ -150,7 +165,6 @@ const saiteja = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donthula-saiteja/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saitejadonthula17@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saiteja-donthula-17)
-[![Phone](https://img.shields.io/badge/Phone-8500807630-03C988?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918500807630)
 
 </div>
 
@@ -160,6 +174,6 @@ const saiteja = {
 
 <div align="center">
   
-  **"Code is like humor. When you have to explain it, it's bad."** - Cory House
+  ***"Code is like humor. When you have to explain it, it's bad."*** - Cory House
   
 </div>
