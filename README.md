@@ -9,7 +9,7 @@ Full Stack Developer. I spend most of my time shipping real products end-to-end 
 
 ## What I'm working on
 
-**[CampusTrack](https://campustrack.in)** — Co-founder & Full Stack Developer at an early-stage edtech SaaS now serving 7,200+ learners and 3,200+ daily active users across multiple institutions. Built core systems including the proctored exam engine, placement automation, self-hosted code-execution sandbox, and the role-based platform layer. *(Repo private)*
+**[CampusTrack](https://campustrack.in)** — Full Stack Developer at an early-stage edtech SaaS now serving 7,200+ learners and 3,200+ daily active users across multiple institutions. Built core systems including the proctored exam engine, placement automation, self-hosted code-execution sandbox, and the role-based platform layer. *(Repo private)*
 
 **[NextInterview](https://nextinterview.tech)** — Built this from day one with the founder. AI career-readiness SaaS with adaptive mock interviews and an ATS-aware resume builder. Owned the application end-to-end. *(Repo private)*
 
@@ -78,15 +78,3 @@ Full Stack Developer. I spend most of my time shipping real products end-to-end 
 
 - Open to **founding engineer / early-stage full stack** roles at remote-first startups
 - Reach me at **saitejadonthula17@gmail.com**
-
----
-
-<details>
-<summary>📊 GitHub Stats</summary>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saiteja-donthula-17&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiteja-donthula-17&theme=tokyonight&hide_border=true" height="170">
-</div>
-
-</details>
